@@ -1,19 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
+      "Id": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
       "PackagePath": "staticwebassets\\Frontend.14s8j19ep6.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\imagens\\imagem_felipe.png",
+      "PackagePath": "staticwebassets\\imagens\\imagem_felipe.png"
+    },
+    {
+      "Id": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\lang-logo.png",
+      "Id": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\lang-logo.png",
       "PackagePath": "staticwebassets\\lang-logo.png"
     },
     {
