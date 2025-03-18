@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qVnMtouT90o9Sib+IC3JJEty29Rw7yWuJ9xsYTHT+zc=",
+  "Hash": "w+rs9ct+aLWx7RIvft57o4R5aWRRTtlLhGctyKKVUFk=",
   "Source": "Frontend",
   "BasePath": "_content/Frontend",
   "Mode": "Default",
@@ -10,38 +10,38 @@
     {
       "Name": "Frontend\\wwwroot",
       "Source": "Frontend",
-      "ContentRoot": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\",
       "BasePath": "_content/Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\2sh6681xpm-xtxxf3hu2r.gz",
+      "Identity": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\2sh6681xpm-vwg7p8va01.gz",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Frontend",
-      "RelativePath": "js/site#[.{fingerprint=xtxxf3hu2r}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=vwg7p8va01}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\js\\site.js",
+      "RelatedAsset": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fpxp8wntf7",
-      "Integrity": "465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=",
+      "Fingerprint": "jm0v3ytoid",
+      "Integrity": "64+t5OjmA04mfXm6hsHGd1x21fgRtY2hL1gBZ1O5kXY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\31k4o5v5c6-7ydgi8l8vw.gz",
+      "Identity": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\31k4o5v5c6-7ydgi8l8vw.gz",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "css/site#[.{fingerprint=7ydgi8l8vw}]?.css.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\css\\site.css",
+      "RelatedAsset": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6zem8280a4",
-      "Integrity": "rjrLQhqd9wn8zfSwLNurthaYjr63xuQDpvOox2cbfU8=",
+      "Fingerprint": "d8h0rjp8f9",
+      "Integrity": "PQ5c2zlYx5FQqU+6Q8lCOj2bQ3XLpALvab3sIILLdBU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\wkaqiq4loj-14s8j19ep6.gz",
+      "Identity": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\wkaqiq4loj-14s8j19ep6.gz",
       "SourceId": "Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "Frontend#[.{fingerprint=14s8j19ep6}]?.styles.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css",
+      "RelatedAsset": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "maqtlryr70",
-      "Integrity": "XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI=",
+      "Fingerprint": "ytyds3b91x",
+      "Integrity": "lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css"
     },
     {
-      "Identity": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\xfnzok5kqy-14s8j19ep6.gz",
+      "Identity": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\xfnzok5kqy-14s8j19ep6.gz",
       "SourceId": "Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "Frontend#[.{fingerprint=14s8j19ep6}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "maqtlryr70",
-      "Integrity": "XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI=",
+      "Fingerprint": "ytyds3b91x",
+      "Integrity": "lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css",
+      "Identity": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css",
       "SourceId": "Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "Frontend#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -119,13 +119,13 @@
       "Integrity": "UeenkhRRQW0ulWkUtv6bVRW4XvZbGobIBfWLaLhW/3E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css"
     },
     {
-      "Identity": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
+      "Identity": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
       "SourceId": "Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "Frontend#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -140,13 +140,13 @@
       "Integrity": "UeenkhRRQW0ulWkUtv6bVRW4XvZbGobIBfWLaLhW/3E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\css\\site.css",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,31 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\imgs\\plato.jpg",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\",
+      "BasePath": "_content/Frontend",
+      "RelativePath": "imgs/plato#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9smrn1q1zq",
+      "Integrity": "51hD7Yt6kh/FdwfnTVMFfhBdz0vjuLo57WTPruOt3js=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\plato.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\js\\site.js",
+      "SourceId": "Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -178,17 +199,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "vwg7p8va01",
+      "Integrity": "oWVf0WfmIDn70quKDl5Mg70Dfqy7xiP/BS4dbRVn1UA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\lang-logo.png",
+      "Identity": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\lang-logo.png",
       "SourceId": "Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\",
       "BasePath": "_content/Frontend",
       "RelativePath": "lang-logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -209,12 +230,12 @@
   "Endpoints": [
     {
       "Route": "css/site.7ydgi8l8vw.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\31k4o5v5c6-7ydgi8l8vw.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\31k4o5v5c6-7ydgi8l8vw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003333333333"
+          "Quality": "0.003311258278"
         }
       ],
       "ResponseHeaders": [
@@ -224,15 +245,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "299"
+          "Value": "301"
         },
         {
           "Name": "ETag",
-          "Value": "\"rjrLQhqd9wn8zfSwLNurthaYjr63xuQDpvOox2cbfU8=\""
+          "Value": "\"PQ5c2zlYx5FQqU+6Q8lCOj2bQ3XLpALvab3sIILLdBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -272,7 +293,7 @@
     },
     {
       "Route": "css/site.7ydgi8l8vw.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -293,7 +314,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -317,7 +338,7 @@
     },
     {
       "Route": "css/site.7ydgi8l8vw.css.gz",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\31k4o5v5c6-7ydgi8l8vw.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\31k4o5v5c6-7ydgi8l8vw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -326,7 +347,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "299"
+          "Value": "301"
         },
         {
           "Name": "Content-Type",
@@ -334,11 +355,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rjrLQhqd9wn8zfSwLNurthaYjr63xuQDpvOox2cbfU8=\""
+          "Value": "\"PQ5c2zlYx5FQqU+6Q8lCOj2bQ3XLpALvab3sIILLdBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -364,18 +385,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rjrLQhqd9wn8zfSwLNurthaYjr63xuQDpvOox2cbfU8="
+          "Value": "sha256-PQ5c2zlYx5FQqU+6Q8lCOj2bQ3XLpALvab3sIILLdBU="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\31k4o5v5c6-7ydgi8l8vw.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\31k4o5v5c6-7ydgi8l8vw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003333333333"
+          "Quality": "0.003311258278"
         }
       ],
       "ResponseHeaders": [
@@ -385,15 +406,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "299"
+          "Value": "301"
         },
         {
           "Name": "ETag",
-          "Value": "\"rjrLQhqd9wn8zfSwLNurthaYjr63xuQDpvOox2cbfU8=\""
+          "Value": "\"PQ5c2zlYx5FQqU+6Q8lCOj2bQ3XLpALvab3sIILLdBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -425,7 +446,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -446,7 +467,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -462,7 +483,7 @@
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\31k4o5v5c6-7ydgi8l8vw.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\31k4o5v5c6-7ydgi8l8vw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -471,7 +492,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "299"
+          "Value": "301"
         },
         {
           "Name": "Content-Type",
@@ -479,11 +500,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rjrLQhqd9wn8zfSwLNurthaYjr63xuQDpvOox2cbfU8=\""
+          "Value": "\"PQ5c2zlYx5FQqU+6Q8lCOj2bQ3XLpALvab3sIILLdBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -501,18 +522,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rjrLQhqd9wn8zfSwLNurthaYjr63xuQDpvOox2cbfU8="
+          "Value": "sha256-PQ5c2zlYx5FQqU+6Q8lCOj2bQ3XLpALvab3sIILLdBU="
         }
       ]
     },
     {
       "Route": "Frontend.14s8j19ep6.bundle.scp.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\xfnzok5kqy-14s8j19ep6.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\xfnzok5kqy-14s8j19ep6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004854368932"
+          "Quality": "0.004901960784"
         }
       ],
       "ResponseHeaders": [
@@ -522,15 +543,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "205"
+          "Value": "203"
         },
         {
           "Name": "ETag",
-          "Value": "\"XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI=\""
+          "Value": "\"lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -570,7 +591,7 @@
     },
     {
       "Route": "Frontend.14s8j19ep6.bundle.scp.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -591,7 +612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -615,7 +636,7 @@
     },
     {
       "Route": "Frontend.14s8j19ep6.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\xfnzok5kqy-14s8j19ep6.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\xfnzok5kqy-14s8j19ep6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -624,7 +645,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "205"
+          "Value": "203"
         },
         {
           "Name": "Content-Type",
@@ -632,11 +653,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI=\""
+          "Value": "\"lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -662,18 +683,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI="
+          "Value": "sha256-lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc="
         }
       ]
     },
     {
       "Route": "Frontend.14s8j19ep6.styles.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\wkaqiq4loj-14s8j19ep6.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\wkaqiq4loj-14s8j19ep6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004854368932"
+          "Quality": "0.004901960784"
         }
       ],
       "ResponseHeaders": [
@@ -683,15 +704,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "205"
+          "Value": "203"
         },
         {
           "Name": "ETag",
-          "Value": "\"XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI=\""
+          "Value": "\"lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -731,7 +752,7 @@
     },
     {
       "Route": "Frontend.14s8j19ep6.styles.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -752,7 +773,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -776,7 +797,7 @@
     },
     {
       "Route": "Frontend.14s8j19ep6.styles.css.gz",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\wkaqiq4loj-14s8j19ep6.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\wkaqiq4loj-14s8j19ep6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -785,7 +806,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "205"
+          "Value": "203"
         },
         {
           "Name": "Content-Type",
@@ -793,11 +814,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI=\""
+          "Value": "\"lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -823,18 +844,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI="
+          "Value": "sha256-lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc="
         }
       ]
     },
     {
       "Route": "Frontend.bundle.scp.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\xfnzok5kqy-14s8j19ep6.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\xfnzok5kqy-14s8j19ep6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004854368932"
+          "Quality": "0.004901960784"
         }
       ],
       "ResponseHeaders": [
@@ -844,15 +865,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "205"
+          "Value": "203"
         },
         {
           "Name": "ETag",
-          "Value": "\"XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI=\""
+          "Value": "\"lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -884,7 +905,7 @@
     },
     {
       "Route": "Frontend.bundle.scp.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Frontend.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -905,7 +926,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -921,7 +942,7 @@
     },
     {
       "Route": "Frontend.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\xfnzok5kqy-14s8j19ep6.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\xfnzok5kqy-14s8j19ep6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -930,7 +951,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "205"
+          "Value": "203"
         },
         {
           "Name": "Content-Type",
@@ -938,11 +959,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI=\""
+          "Value": "\"lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -960,18 +981,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI="
+          "Value": "sha256-lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc="
         }
       ]
     },
     {
       "Route": "Frontend.styles.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\wkaqiq4loj-14s8j19ep6.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\wkaqiq4loj-14s8j19ep6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004854368932"
+          "Quality": "0.004901960784"
         }
       ],
       "ResponseHeaders": [
@@ -981,15 +1002,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "205"
+          "Value": "203"
         },
         {
           "Name": "ETag",
-          "Value": "\"XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI=\""
+          "Value": "\"lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1021,7 +1042,7 @@
     },
     {
       "Route": "Frontend.styles.css",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Frontend.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1042,7 +1063,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1058,7 +1079,7 @@
     },
     {
       "Route": "Frontend.styles.css.gz",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\wkaqiq4loj-14s8j19ep6.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\wkaqiq4loj-14s8j19ep6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1067,7 +1088,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "205"
+          "Value": "203"
         },
         {
           "Name": "Content-Type",
@@ -1075,11 +1096,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI=\""
+          "Value": "\"lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:55:08 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1097,68 +1118,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XouWt8cCSu08t1ByAxZ1odwbdHUSKeKDADwbZ4lirEI="
+          "Value": "sha256-lmliSqrkNfpezvMbL5cAEAHWxcpxjpQ/a2GxIopO4Mc="
         }
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\2sh6681xpm-xtxxf3hu2r.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.005235602094"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "190"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\js\\site.js",
+      "Route": "imgs/plato.9smrn1q1zq.jpg",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\imgs\\plato.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1167,7 +1133,115 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "11956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"51hD7Yt6kh/FdwfnTVMFfhBdz0vjuLo57WTPruOt3js=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 22:22:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9smrn1q1zq"
+        },
+        {
+          "Name": "label",
+          "Value": "imgs/plato.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-51hD7Yt6kh/FdwfnTVMFfhBdz0vjuLo57WTPruOt3js="
+        }
+      ]
+    },
+    {
+      "Route": "imgs/plato.jpg",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\imgs\\plato.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11956"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"51hD7Yt6kh/FdwfnTVMFfhBdz0vjuLo57WTPruOt3js=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 22:22:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-51hD7Yt6kh/FdwfnTVMFfhBdz0vjuLo57WTPruOt3js="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\2sh6681xpm-vwg7p8va01.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002487562189"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "401"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"64+t5OjmA04mfXm6hsHGd1x21fgRtY2hL1gBZ1O5kXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
         },
         {
           "Name": "Content-Type",
@@ -1175,11 +1249,40 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"oWVf0WfmIDn70quKDl5Mg70Dfqy7xiP/BS4dbRVn1UA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oWVf0WfmIDn70quKDl5Mg70Dfqy7xiP/BS4dbRVn1UA="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oWVf0WfmIDn70quKDl5Mg70Dfqy7xiP/BS4dbRVn1UA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1189,13 +1292,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-oWVf0WfmIDn70quKDl5Mg70Dfqy7xiP/BS4dbRVn1UA="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\2sh6681xpm-xtxxf3hu2r.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\2sh6681xpm-vwg7p8va01.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1204,7 +1307,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "401"
         },
         {
           "Name": "Content-Type",
@@ -1212,11 +1315,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"64+t5OjmA04mfXm6hsHGd1x21fgRtY2hL1gBZ1O5kXY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1234,18 +1337,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA="
+          "Value": "sha256-64+t5OjmA04mfXm6hsHGd1x21fgRtY2hL1gBZ1O5kXY="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\2sh6681xpm-xtxxf3hu2r.gz",
+      "Route": "js/site.vwg7p8va01.js",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\2sh6681xpm-vwg7p8va01.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005235602094"
+          "Quality": "0.002487562189"
         }
       ],
       "ResponseHeaders": [
@@ -1255,15 +1358,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "401"
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"64+t5OjmA04mfXm6hsHGd1x21fgRtY2hL1gBZ1O5kXY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1283,13 +1386,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"oWVf0WfmIDn70quKDl5Mg70Dfqy7xiP/BS4dbRVn1UA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "vwg7p8va01"
         },
         {
           "Name": "label",
@@ -1297,13 +1400,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-oWVf0WfmIDn70quKDl5Mg70Dfqy7xiP/BS4dbRVn1UA="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\js\\site.js",
+      "Route": "js/site.vwg7p8va01.js",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1312,7 +1415,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "873"
         },
         {
           "Name": "Content-Type",
@@ -1320,11 +1423,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"oWVf0WfmIDn70quKDl5Mg70Dfqy7xiP/BS4dbRVn1UA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1334,7 +1437,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "vwg7p8va01"
         },
         {
           "Name": "label",
@@ -1342,13 +1445,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-oWVf0WfmIDn70quKDl5Mg70Dfqy7xiP/BS4dbRVn1UA="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js.gz",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\obj\\Debug\\net9.0\\compressed\\2sh6681xpm-xtxxf3hu2r.gz",
+      "Route": "js/site.vwg7p8va01.js.gz",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\obj\\Debug\\net9.0\\compressed\\2sh6681xpm-vwg7p8va01.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1357,7 +1460,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190"
+          "Value": "401"
         },
         {
           "Name": "Content-Type",
@@ -1365,11 +1468,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA=\""
+          "Value": "\"64+t5OjmA04mfXm6hsHGd1x21fgRtY2hL1gBZ1O5kXY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1387,7 +1490,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "vwg7p8va01"
         },
         {
           "Name": "label",
@@ -1395,13 +1498,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-465WqepNnI4ENLgQJFXrL2gtI20GCfeLK3JAtugOzpA="
+          "Value": "sha256-64+t5OjmA04mfXm6hsHGd1x21fgRtY2hL1gBZ1O5kXY="
         }
       ]
     },
     {
       "Route": "lang-logo.png",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\lang-logo.png",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\lang-logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1422,7 +1525,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1438,7 +1541,7 @@
     },
     {
       "Route": "lang-logo.xo7ixalba2.png",
-      "AssetFile": "C:\\Users\\boegeholz\\OneDrive\\Documents\\Heroku_Projects\\dotnet-getting-started\\Frontend\\wwwroot\\lang-logo.png",
+      "AssetFile": "C:\\Users\\Estudante\\Documents\\GitHub\\pg004\\Frontend\\wwwroot\\lang-logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1459,7 +1562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Feb 2025 18:45:37 GMT"
+          "Value": "Tue, 18 Mar 2025 22:12:19 GMT"
         },
         {
           "Name": "Cache-Control",
